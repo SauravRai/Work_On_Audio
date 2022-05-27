@@ -1,1 +1,25 @@
 
+In this page, I will sharing all the links and channels that I have used while learning different concepts.
+
+1. Signals and Systems from Khan academy  
+https://www.khanacademy.org/science/electrical-engineering/ee-signals
+
+Note about this video lectures:
+Signals and Systems covers analog and digital signal processing, ideas at the heart of modern communication and measurement. 
+They present the basic concepts for continuous-time and discrete-time signals in the time and frequency domains. 
+Time and frequency are related by the Fourier transform. 
+
+2.  Various concepts related to DSP
+https://forum.allaboutcircuits.com/ubs/my-articles-on-aac.1135/
+
+3. Understanding the Fixed Point Representation, Q factor and addtion
+https://www.allaboutcircuits.com/technical-articles/fixed-point-representation-the-q-format-and-addition-examples/
+
+4. Two's complement represenattion theory and examples
+https://www.allaboutcircuits.com/technical-articles/twos-complement-representation-theory-and-examples/
+
+5. Fixed Point Multiplication 
+https://www.allaboutcircuits.com/technical-articles/multiplication-examples-using-the-fixed-point-representation/
+
+
+ 
