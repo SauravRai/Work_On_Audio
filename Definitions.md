@@ -4,6 +4,8 @@ Definition:
 and zeroes to achieve a desired effect.
 
 Why DSP is used and what does it an edge in simple devices:
+What is the difference between DSP and CPU?
+Why do DSPs matter
 https://www.soundguys.com/what-is-dsp-28013/
 
 
