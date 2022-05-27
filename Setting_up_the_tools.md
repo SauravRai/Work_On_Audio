@@ -9,3 +9,7 @@ I am currently using the Ubuntu 20.04 version.
 
 link for steps: 
 https://www.itsmarttricks.com/how-to-install-ocenaudio-free-audio-editor-in-ubuntu-a-best-audacity-alternative-for-linux/
+
+2. About the Tensilica HiFi DSP
+https://www.cadence.com/en_US/home/tools/ip/tensilica-ip/hifi-dsps.html
+
