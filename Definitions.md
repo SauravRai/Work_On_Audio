@@ -3,9 +3,9 @@ Definition:
 1. The DSP – digital signal processor – is the 'brain' inside an active speaker. It takes audio information (converting it to digital format if necessary) and manipulates the ones 
 and zeroes to achieve a desired effect.
 
-Why DSP is used and what does it an edge in simple devices:
+Why DSP is used and what does it an edge in simple devices?
 What is the difference between DSP and CPU?
-Why do DSPs matter
+Why do DSPs matter?
 https://www.soundguys.com/what-is-dsp-28013/
 
 
