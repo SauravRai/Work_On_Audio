@@ -1,3 +1,15 @@
 @author: Saurav Rai
 Recently I have started working on Audio signals (Digital Signal Processing) which is completely new to my Domain. 
 I will be sharing all my learnings, the tools that I will be using (links to download) and the links of the blogs that I will write. 
+
+Links persent:
+1. Signals and Systems from Khan academy
+2. Various concepts related to DSP 
+3. Understanding the Fixed Point Representation, Q factor and addtion
+4. Two's complement represenattion theory and examples
+5. Fixed Point Multiplication
+6. What is Swig and why does it being used?
+
+Setting up the tools:
+1. Downloading Oceanaudio
+2. About the Tensilica HiFi DSP 
