@@ -24,5 +24,10 @@ https://www.allaboutcircuits.com/technical-articles/multiplication-examples-usin
 6. What is Swig and why does it being used?
 https://blog.mbedded.ninja/programming/languages/python/python-swig-bindings-from-cplusplus/
 
+7. 9 Best File Comparison and Difference (Diff) Tools for Linux.
+This is one of the useful link. This can be extensively used whlie comparing two files.
+https://www.tecmint.com/best-linux-file-diff-tools-comparison/
+
+
 
  
