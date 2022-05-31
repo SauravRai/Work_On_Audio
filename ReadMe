@@ -14,3 +14,6 @@ Links persent:
 Setting up the tools:
 1. Downloading Oceanaudio
 2. About the Tensilica HiFi DSP 
+
+There are 3 ways we can download softwares in Ubuntu: (1) From the Ubuntu store, (2) Using the "sudo dpkg -i package_to_insttall.deb" after downloading from the source
+and (3) "sudo apt-get install package.deb" directly from the command line if the .deb is avaiable
