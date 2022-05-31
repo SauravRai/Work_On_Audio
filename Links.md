@@ -25,7 +25,7 @@ https://www.allaboutcircuits.com/technical-articles/multiplication-examples-usin
 https://blog.mbedded.ninja/programming/languages/python/python-swig-bindings-from-cplusplus/
 
 7. 9 Best File Comparison and Difference (Diff) Tools for Linux.
-This is one of the useful link. This can be extensively used whlie comparing two files.
+This is one of the useful link. This can be extensively used whlie comparing two files. While using command line diff commands is good, application kompare is best for me. 
 https://www.tecmint.com/best-linux-file-diff-tools-comparison/
 
 
