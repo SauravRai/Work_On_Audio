@@ -21,5 +21,8 @@ https://www.allaboutcircuits.com/technical-articles/twos-complement-representati
 5. Fixed Point Multiplication 
 https://www.allaboutcircuits.com/technical-articles/multiplication-examples-using-the-fixed-point-representation/
 
+6. What is Swig and why does it being used?
+https://blog.mbedded.ninja/programming/languages/python/python-swig-bindings-from-cplusplus/
+
 
  
