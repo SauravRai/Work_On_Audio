@@ -11,4 +11,7 @@ https://www.soundguys.com/what-is-dsp-28013/
 
 2. Codecs are essentially standards of video content compression. Codecs are made up of two components, an encoder to compress the content, and a decoder to decompress the video content and play an approximation of the original content. An enCOder and a DECoder, hence the name codec
 
+3. Difference between cmake and make file
+https://www.quora.com/What-is-the-difference-between-CMake-and-Make
+
 
