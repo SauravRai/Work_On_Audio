@@ -28,6 +28,9 @@ https://blog.mbedded.ninja/programming/languages/python/python-swig-bindings-fro
 This is one of the useful link. This can be extensively used whlie comparing two files. While using command line diff commands is good, application kompare is best for me. 
 https://www.tecmint.com/best-linux-file-diff-tools-comparison/
 
+8. Tessy - Automated testing of embedded software
+https://www.razorcat.com/en/product-tessy.html
+
 
 
  
