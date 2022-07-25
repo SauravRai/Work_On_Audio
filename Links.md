@@ -31,6 +31,9 @@ https://www.tecmint.com/best-linux-file-diff-tools-comparison/
 8. Tessy - Automated testing of embedded software
 https://www.razorcat.com/en/product-tessy.html
 
+9. Various Linux Commands 
+ https://www.xmind.net/m/WwtB/#
+
 
 
  
