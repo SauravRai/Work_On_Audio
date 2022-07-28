@@ -33,6 +33,10 @@ https://www.razorcat.com/en/product-tessy.html
 
 9. Various Linux Commands 
  https://www.xmind.net/m/WwtB/#
+ 
+10. Download notepad++ in the Ubuntu system
+https://www.omgubuntu.co.uk/install-notepad-editor-ubuntu
+
 
 
 
