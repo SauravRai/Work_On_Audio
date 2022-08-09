@@ -14,4 +14,8 @@ https://www.soundguys.com/what-is-dsp-28013/
 3. Difference between cmake and make file
 https://www.quora.com/What-is-the-difference-between-CMake-and-Make
 
+4. Difference between Processor and a MicroProcessor
+https://diffzi.com/processor-vs-microprocessor/
+
+
 
