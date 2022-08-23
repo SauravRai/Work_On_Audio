@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=dcNk0urQsQM
 
 
 Snippets from the video link
+
 a. Microcontrollers are used in applications where the tasks given are predefined (example. cameras, washing machine, oven), and micro processors are used in personal laptops where the tasks are not preddefined and can be used for various other applications. 
 
 b. In case of the microprocessors, all the other things such as memory(RAM, ROM), IO ports, Serial interface are connected to it externally.  
