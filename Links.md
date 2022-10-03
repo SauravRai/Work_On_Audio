@@ -37,6 +37,9 @@ https://www.razorcat.com/en/product-tessy.html
 10. Download notepad++ in the Ubuntu system
 https://www.omgubuntu.co.uk/install-notepad-editor-ubuntu
 
+11.https://vitux.com/how-to-recover-deleted-files-in-ubuntu-through-testdisk/
+Recovery in ubuntu 20.04
+
 
 
 
