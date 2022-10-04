@@ -37,10 +37,19 @@ https://www.razorcat.com/en/product-tessy.html
 10. Download notepad++ in the Ubuntu system
 https://www.omgubuntu.co.uk/install-notepad-editor-ubuntu
 
-11.https://vitux.com/how-to-recover-deleted-files-in-ubuntu-through-testdisk/
-Recovery in ubuntu 20.04
+11. Recovery in ubuntu 20.04
+https://vitux.com/how-to-recover-deleted-files-in-ubuntu-through-testdisk/
 
+12. Ubuntu Login Loop 
+https://www.maketecheasier.com/fix-ubuntu-login-loop/
+https://unix.stackexchange.com/questions/170650/ubuntu-does-no-let-me-log-in-to-my-user-how-can-i-fix-it
+https://askubuntu.com/questions/300682/what-is-the-xauthority-file
+https://askubuntu.com/questions/916840/chown-usernameusername-xauthority
+https://vitux.com/how-to-check-the-user-groups-an-ubuntu-user-belongs-to/#:~:text=Open%20the%20Ubuntu%20Terminal%20through,the%20Ubuntu%20system%20by%20SSH.&text=This%20command%20lists%20all%20the%20groups%20that%20you%20belong%20to.
+https://askubuntu.com/questions/223501/ubuntu-gets-stuck-in-a-login-loop
+https://www.youtube.com/watch?v=togIj3hfbDs
 
-
+13. Recovery mode in Ubuntu 
+https://www.youtube.com/watch?v=8xFAVvrfEdg
 
  
