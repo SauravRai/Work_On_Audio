@@ -58,4 +58,6 @@ https://www.youtube.com/watch?v=togIj3hfbDs
 13. Recovery mode in Ubuntu 
 https://www.youtube.com/watch?v=8xFAVvrfEdg
 
+14. To use Gpu, need to install the CUDA on ubuntu 20.04
+https://linuxhint.com/install-cuda-ubuntu/
  
