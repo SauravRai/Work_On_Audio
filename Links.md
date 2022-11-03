@@ -61,3 +61,16 @@ https://www.youtube.com/watch?v=8xFAVvrfEdg
 14. To use Gpu, need to install the CUDA on ubuntu 20.04
 https://linuxhint.com/install-cuda-ubuntu/
  
+15. python subprocess module
+https://www.golinuxcloud.com/python-subprocess/#Using_python_subprocessPopen_function
+https://docs.python.org/3/library/subprocess.html
+https://stackoverflow.com/questions/163542/how-do-i-pass-a-string-into-subprocess-popen-using-the-stdin-argument
+https://stackoverflow.com/questions/28616018/multiple-inputs-and-outputs-in-python-subprocess-communicate
+https://docs.python.org/2/library/subprocess.html#subprocess.Popen
+
+16. Unicode & Character Encodings in Python: A Painless Guide
+https://realpython.com/python-encodings-guide/#whats-a-character-encoding
+
+
+
+
