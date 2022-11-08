@@ -2,7 +2,7 @@
 Recently I have started working on Audio signals (Digital Signal Processing) which is completely new to my Domain. 
 I will be sharing all my learnings, the tools that I will be using (links to download) and the links of the blogs that I will write. 
 
-Links persent:
+In the Links:
 1. Signals and Systems from Khan academy
 2. Various concepts related to DSP 
 3. Understanding the Fixed Point Representation, Q factor and addtion
@@ -11,7 +11,7 @@ Links persent:
 6. What is Swig and why does it being used?
 7. 9 Best File Comparison and Difference (Diff) Tools for Linux
 
-Setting up the tools:
+In Setting up the tools:
 1. Downloading Oceanaudio
 2. About the Tensilica HiFi DSP 
 
