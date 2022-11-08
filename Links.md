@@ -76,7 +76,12 @@ https://stackoverflow.com/questions/48752152/how-do-i-pass-a-string-in-to-subpro
 
 https://stackoverflow.com/questions/8475290/how-do-i-write-to-a-python-subprocess-stdin
 
-16. Unicode & Character Encodings in Python: A Painless Guide
+16. Handling the keyboard using the pynput
+
+https://pynput.readthedocs.io/en/latest/keyboard.html#controlling-the-keyboard 
+
+
+17. Unicode & Character Encodings in Python: A Painless Guide
 https://realpython.com/python-encodings-guide/#whats-a-character-encoding
 
 
