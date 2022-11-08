@@ -84,6 +84,10 @@ https://pynput.readthedocs.io/en/latest/keyboard.html#controlling-the-keyboard
 17. Unicode & Character Encodings in Python: A Painless Guide
 https://realpython.com/python-encodings-guide/#whats-a-character-encoding
 
+18. Make building with cmake verbose
+https://bytefreaks.net/programming-2/make-building-with-cmake-verbose
+
+https://stackoverflow.com/questions/5820303/how-do-i-force-make-gcc-to-show-me-the-commands
 
 
 
