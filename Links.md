@@ -72,6 +72,10 @@ https://stackoverflow.com/questions/28616018/multiple-inputs-and-outputs-in-pyth
 
 https://docs.python.org/2/library/subprocess.html#subprocess.Popen
 
+https://stackoverflow.com/questions/48752152/how-do-i-pass-a-string-in-to-subprocess-run-using-stdin-in-python-3/59496029#59496029
+
+https://stackoverflow.com/questions/8475290/how-do-i-write-to-a-python-subprocess-stdin
+
 16. Unicode & Character Encodings in Python: A Painless Guide
 https://realpython.com/python-encodings-guide/#whats-a-character-encoding
 
