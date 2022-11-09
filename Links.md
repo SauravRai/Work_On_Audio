@@ -93,6 +93,8 @@ https://stackoverflow.com/questions/5820303/how-do-i-force-make-gcc-to-show-me-t
 
 https://opensource.com/article/22/1/unit-testing-googletest-ctest
 
+20. Regex and CTest
 
+https://cmake.org/cmake/help/ctest2.6docs.html
 
 
