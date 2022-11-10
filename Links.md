@@ -93,8 +93,25 @@ https://stackoverflow.com/questions/5820303/how-do-i-force-make-gcc-to-show-me-t
 
 https://opensource.com/article/22/1/unit-testing-googletest-ctest
 
-20. Regex and CTest
+20. Regex and CTest (Regrex in CTest)
 
 https://cmake.org/cmake/help/ctest2.6docs.html
 
+Creating and running tests with CTest, Adding tests to your project
+
+https://coderefinery.github.io/cmake-workshop/testing/
+
+Online Regex editor
+
+https://regex101.com/
+
+ctest manual
+
+https://cmake.org/cmake/help/latest/manual/ctest.1.html#run-tests
+
+https://coderefinery.github.io/cmake-workshop/testing/#exercises-testing-with-ctest
+
+21. Escaping special characters in groovy 
+
+https://stackoverflow.com/questions/51160882/regex-to-escape-special-characters-in-groovy
 
