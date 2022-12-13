@@ -1,6 +1,7 @@
 
 In this page, I will sharing all the links and channels that I have used while learning different concepts.
 
+
 1. Signals and Systems from Khan academy  
 https://www.khanacademy.org/science/electrical-engineering/ee-signals
 
@@ -115,7 +116,7 @@ https://coderefinery.github.io/cmake-workshop/testing/#exercises-testing-with-ct
 
 https://stackoverflow.com/questions/51160882/regex-to-escape-special-characters-in-groovy
 
-22. Bye Alignment & What is meant by rge 8 bytes aligned 
+22. Bye Alignment & What is meant by the 8 bytes aligned 
 
 https://stackoverflow.com/questions/2846914/what-is-meant-by-memory-is-8-bytes-aligned
 
