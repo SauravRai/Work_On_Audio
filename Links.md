@@ -115,3 +115,20 @@ https://coderefinery.github.io/cmake-workshop/testing/#exercises-testing-with-ct
 
 https://stackoverflow.com/questions/51160882/regex-to-escape-special-characters-in-groovy
 
+22. Bye Alignment & What is meant by rge 8 bytes aligned 
+
+https://stackoverflow.com/questions/2846914/what-is-meant-by-memory-is-8-bytes-aligned
+
+https://www.eventhelix.com/embedded/byte-alignment-and-ordering/
+
+https://stackoverflow.com/questions/2846914/what-is-meant-by-memory-is-8-bytes-aligned
+
+23. Convert the binary text file to a .h file 
+
+https://www.tutorialspoint.com/unix_commands/xxd.htm
+
+https://stackoverflow.com/questions/8707183/how-can-i-convert-a-binary-file-to-the-text-declaring-a-c-c-array-with-that-co
+
+https://cheungkevinviola909.medium.com/structure-padding-and-binary-files-65a4a741900a
+
+
