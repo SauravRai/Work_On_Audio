@@ -132,4 +132,10 @@ https://stackoverflow.com/questions/8707183/how-can-i-convert-a-binary-file-to-t
 
 https://cheungkevinviola909.medium.com/structure-padding-and-binary-files-65a4a741900a
 
+24. About the Pyserial and Miniterm in Linux
 
+https://www.xanthium.in/linux-serial-port-programming-using-python-pyserial-and-arduino-avr-pic-microcontroller
+
+https://pyserial.readthedocs.io/en/latest/tools.html
+
+https://askubuntu.com/questions/133235/how-do-i-allow-non-root-access-to-ttyusb0/133244#133244
